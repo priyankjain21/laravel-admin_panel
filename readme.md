@@ -14,9 +14,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-## laravel-admin-panel
+## laravel-admin_panel
 ## composer install
 ## php artisan migrate
 ## php artisan db:seed
 ## php artisan serve
-# Project contains basic admin panel theme integration, Login for admin
+Project contains admin panel theme integration, Login for admin, ACl Role creation, pages, posts, media manager, category manager
